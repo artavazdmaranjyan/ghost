@@ -18,7 +18,7 @@ date: 2024-07-30
 
 ![Իշխանի նկար](իշխան.jpeg)
 
-[Ձկանը շոկոլադ կերակրել]([https://website-name.com](https://www.youtube.com/watch?v=0eXYaLtAgyY))
+[Ձկանը շոկոլադ կերակրել](https://www.youtube.com/watch?v=0eXYaLtAgyY)
 
 
 
