@@ -18,6 +18,8 @@ date: 2024-07-30
 
 ![Իշխանի նկար](https://s.list.am/f/016/80357016.webp)
 
+![Իշխանի նկար](./իշխան.jpeg)
+
 [Ձկանը շոկոլադ կերակրել](https://www.youtube.com/watch?v=0eXYaLtAgyY)
 
 
