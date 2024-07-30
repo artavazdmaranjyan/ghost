@@ -22,6 +22,8 @@ date: 2024-07-30
 
 ![Իշխանի նկար](https://github.com/artavazdmaranjyan/ghost/blob/main/_posts/ishxan.jpeg)
 
+![Իշխանի նկար](./ishxan.jpeg)
+
 [Ձկանը շոկոլադ կերակրել](https://www.youtube.com/watch?v=0eXYaLtAgyY)
 
 
